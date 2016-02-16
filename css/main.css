@@ -363,12 +363,26 @@ background: rgba(255,255,255,0.1);
     margin-left: 7%;
     border-radius: 4px;
 }
-
+.text-contact-us {
+  line-height: 2.1;
+  padding: 15px 80px 15px 0 ;
+  text-align: left;
+  padding-bottom: 8%;
+}
+.About-us{
+  margin-top: 6%;
+  margin-bottom: 6%;
+  font-size: 1.8em;
+  font-family: 'Open Sans', sans-serif;
+}
+.address{
+  padding-bottom: 5%;
+}
 /*Footer*/
 .redes-sociales div {
     display: inline-block;
     font-size: 200%;
-    color: #0B173B;
+    color: #323A45;
     padding: 1% 1% 1% 0;
 }
 .footer-text {
@@ -380,4 +394,8 @@ background: rgba(255,255,255,0.1);
 .text-footer {
   margin: 0% 20%;
   padding: 3%;
+}
+footer h2 {
+  color:#525252;
+  font-size: 1.5em;
 }
